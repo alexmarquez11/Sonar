@@ -8,8 +8,8 @@ namespace ProjectA
 {
     public class Class1
     {
-        string test() { 
-            return "hh"
+        string test() {
+            return "hh";
         }
     }
 }
